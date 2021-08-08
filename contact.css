@@ -1,0 +1,52 @@
+.outer{
+    background: black;
+    width:100%;
+    height:800px
+    
+    
+    
+}
+.outer1{
+    background: red;
+    width:100%;
+    height:100px
+}
+body{
+    margin:0;
+    
+}
+#find{
+    color: red;
+}
+.social{
+    color: red
+
+}
+h2{
+    color:red;
+}
+h3{
+    color:red;
+}
+.container {
+	max-width:400px;
+	width:100%;
+	margin:0 auto;
+	position:absolute;
+    
+}
+fieldset {
+	border: medium none !important;
+	margin: 0 0 10px;
+	min-width: 100%;
+	padding: 0;
+	width: 100%;
+}
+#contact  {
+	width:100%;
+	border:1px solid rgb(252, 3, 3);
+	background:;
+	margin:0 0 5px;
+	padding:10px;
+}
+    
